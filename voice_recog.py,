@@ -1,0 +1,1 @@
+import speech_recognition as sr, class VoiceRecognition, def init with recognizer, def listen with microphone,
